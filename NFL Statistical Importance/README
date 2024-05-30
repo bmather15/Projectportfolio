@@ -1,0 +1,11 @@
+Name of Project:
+NFL Statistical Importance 
+
+Overview:
+This Exploratory Data Analysis (EDA) on NFL statistical importance focuses on identifying which player and team statistics 
+are most influential in determining game outcomes. By examining these factors across different seasons and teams, 
+this EDA uncovers patterns that underscore the critical areas of performance that teams should focus on to improve their 
+chances of victory.
+
+Programs Used:
+This project utilized Python to create the visualizations. 
