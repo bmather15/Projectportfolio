@@ -1,0 +1,12 @@
+Name of Project:
+Predicting Game Sales Based on Genre Popularity
+
+Overview
+This project presents an approach to predicting video game sales based on genre 
+popularity. Given the video game industry’s nature and its multi-billion-dollar market value,
+accurately forecasting the success of new game releases is important for developers and
+publishers. By analyzing historical sales data, this study identifies trends in genre popularity and
+employs a predictive model to forecast future sales.
+
+Programs Used:
+This project utilized Python to create the visualizations and predictive model. 
