@@ -1,0 +1,11 @@
+Name of Project:
+NFL 4th down EDA
+
+Overview:
+This Exploratory Data Analysis (EDA) on NFL 4th down decisions examines how teams approach this critical aspect of the game. 
+The analysis includes visualizations and statistical summaries of 4th down attempts, highlighting patterns in decision-making.
+The EDA reveals trends in risk-taking behavior, identifying factors that influence whether teams opt for 
+conservative or aggressive strategies on 4th down.
+
+Programs Used
+This project utilized Python to create the visualizations.
