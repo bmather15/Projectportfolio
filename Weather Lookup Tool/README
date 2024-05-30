@@ -1,0 +1,9 @@
+Name of Project:
+Weather Lookup Tool
+
+Overview:
+The weather lookup tool is designed to fetch current weather information for a specified location using a weather API. 
+It retrieves and displays key weather details such as temperature, humidity, weather conditions, and more.
+
+Programs Used
+This project utilized Python. 
