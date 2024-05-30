@@ -1,0 +1,9 @@
+Name of Project:
+Predictive Modeling for High School Student Interest Trends
+
+Overview:
+Marketing and educational institutions are very interested in understanding the interests of high school students. This information can help them with targeted marketing, curriculum developments, and engagement. However, gathering data on student interests can be challenging. Predictive modeling could be a solution by allowing us to predict interests by using demographic characteristics (such as age or gender) and the most used terms from social media.
+This project gives an in-depth analysis of the online activities and interests of high school students based on data collected from a popular social network. The hope was to uncover insights into the trend and behaviors of teenagers on social media from 2006 to 2009. The analysis includes data preprocessing, exploratory data analysis (EDA), predictive modeling, and ethical considerations. This will help give valuable insights for people in education, social media, and youth-focused industries.
+
+Programs Used:
+This project utilized Python to create the visualizations and predictive model. 
