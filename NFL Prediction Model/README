@@ -1,0 +1,9 @@
+Name of Project:
+NFL Prediction Model
+
+Overview:
+This NFL prediction model aims to predict the outcomes of NFL games using machine learning techniques. 
+It leverages historical game data, player statistics, and possibly other relevant features to forecast game results.
+
+Programs Used:
+This project utilized Python to create the visualizations and predictive model. 
